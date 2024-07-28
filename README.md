@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Moosa Raza</h1>
-<h3 align="center">A passionate MERN STACK developer</h3>
+<h3 align="center">A passionate Full stack Shopify developer</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moosaraza2&label=Profile%20views&color=0e75b6&style=flat" alt="moosaraza2" /> </p>
@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://moosa-portfolio.netlify.app/](https://moosa-portfolio.netlify.app/)
 
-- 💬 Ask me about **WEB DEVELOPMENT**
+- 💬 Ask me about **Shopify WEB DEVELOPMENT**
 
 - 📫 How to reach me **rmoosa276@gmail.com**
 
