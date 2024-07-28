@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://moosa-portfolio.netlify.app/](https://moosa-portfolio.netlify.app/)
 
-- 💬 Ask me about **Shopify WEB DEVELOPMENT**
+- 💬 Ask me about **Shopify, Shopify Apps, Custom Shopify Developments**
 
 - 📫 How to reach me **rmoosa276@gmail.com**
 
