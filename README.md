@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=moosaraza2" alt="moosaraza2" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://moosa-portfolio.netlify.app/](https://moosa-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://moosa-portfolio.netlify.app/](https://moosa-raza-portfolio.netlify.app/)
 
 - 💬 Ask me about **Shopify, Shopify Apps, Custom Shopify Developments**
 
